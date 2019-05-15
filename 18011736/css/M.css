@@ -1,0 +1,85 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+header{
+   text-align: center;
+   background-color: #00ffff;
+   margin: 0;
+   padding: 0;
+}
+
+body {
+  background-image: url(../img/wood.jpg);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+p{
+  margin: 0;
+}
+
+h2 {
+  background-color: #ffffff;
+  text-align: center;
+  border: solid 10px #fff600;
+  margin: 0;
+}
+
+table {
+  border: solid 1px #afafaf;
+  margin: auto;
+  margin-top: 100px;
+}
+
+th{
+  font-style: italic;
+}
+
+tr {
+  background-color: #ffffff;
+  border: #afafaf;
+}
+
+td {
+  border: #afafaf;
+}
+
+footer {
+  text-align: center;
+  border: solid 5px #ff0000;
+  background-color: #ffffff;
+  width: 64px;
+  margin: auto;
+  margin-top: 550px
+}
+
+.back:link{
+  color: #ff0000;
+}
+
+.back:visited{
+  color: #ff0000;
+}
+
+.back:hover{
+  background-color: #ff0000;
+  color: #ffffff;
+}
+
+a:link{
+  color: #00106d;
+}
+
+a:visited{
+  color: #00106d;
+}
+
+a:hover{
+  background-color: #00106d;
+  color: #ffffff;
+}

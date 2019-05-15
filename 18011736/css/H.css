@@ -1,0 +1,89 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+header{
+   text-align: center;
+   background-color: #bfd7fc;
+   margin: 0;
+   padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  margin: 0;
+}
+
+article{
+  border: solid 10px #5dff00;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+.A:link{
+  color: #ff9400;
+}
+
+.A:visited{
+  color: #ff9400;
+}
+
+.A:hover {
+  background-color: #ff9400;
+  color: #ffffff;
+}
+
+.B:link{
+  color: #0026ff;
+}
+
+.B:visited{
+  color: #0026ff;
+}
+
+.B:hover {
+  background-color: #0026ff;
+  color: #ffffff;
+}
+
+.C:link{
+  color: #ff00ff;
+}
+
+.C:visited{
+  color: #ff00ff;
+}
+
+.C:hover {
+  background-color: #ff00ff;
+  color: #ffffff;
+}
+
+.D:link{
+  color: #ff0000;
+}
+
+.D:visited{
+  color: #ff0000;
+}
+
+.D:hover {
+  background-color: #ff0000;
+  color: #ffffff;
+}
+
+footer{
+  color: #c4c4c4;
+}
