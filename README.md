@@ -9,7 +9,7 @@ This project is built with HTML and CSS and is organized as a small genre-based 
 **Game Finder** is a beginner-friendly web project that presents game genres in a simple navigation structure.
 Users can move from the home page to genre pages, then to more specific subgenre pages, and finally view example games with external reference links.
 
-The site appears to have been created on **2019/04/05** by **Park Jung Wook**, based on the text shown on the home page.
+The site appears to have been created on **2019/04/05** by **qet0826**, based on the text shown on the home page.
 
 ## Features
 
